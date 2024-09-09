@@ -1,2 +1,4 @@
 # OctavoCiclo-2024
-este repositorio contendra todos mis cursos del octavo ciclo
+Este repositorio contendra todos mis cursos del octavo ciclo
+
+## Construccion de Software I
